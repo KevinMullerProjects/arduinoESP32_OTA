@@ -3,8 +3,8 @@
     {
     "Board": "XIAO_ESP32S3",
     "Device": "30:30:F9:17:FE:18",
-    "Version": "1.0.0",
-    "URL": "https://github.com/Vincentv4/arduinoESP32_OTA/tree/main/XIAO_ESP32S3/Basic-OTA-Example.bin"
-    }
+    "Version": "2.0.0",
+    "URL": "https://github.com/Vincentv4/arduinoESP32_OTA/raw/main/XIAO_ESP32S3/Basic_OTA_Example.bin"
+    } 
   ]
 }
